@@ -1,0 +1,33 @@
+.stylesheet{
+height:100px;
+width:100px;
+}
+.navbar{
+	position-top:sticky;
+	
+}
+.container{
+	margin-top:10px;
+}
+.carousel-inner{
+	height:500px;
+}
+. {
+	display:flex ;
+	justify-content:center;
+	align-item:center;
+}
+.nav-link{
+	margin-right:100px;
+}
+.navbar-brand{
+	margin-left:10px;
+	padding-right:30px;
+}
+nav{
+	
+    position: fixed;
+   
+    z-index: 1;
+	
+}
